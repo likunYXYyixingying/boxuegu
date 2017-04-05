@@ -1,1 +1,3 @@
-boxuegu_template-master
+.*
+!.gitignore
+*.log
